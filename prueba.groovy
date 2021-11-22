@@ -1,4 +1,4 @@
-def GIT_REPO = 'ssh://git@10.24.65.12:2222/docker/socrates.git'
+def GIT_REPO = 'turepogit'
 def HOST = ['none','dh1','manager']
 
 /* Scripted properties. */
